@@ -27,11 +27,11 @@ const siteProps = {
   name: "Talmeez Fuaad",
   title: "Data Scientist",
   email: "Talmeez.Fuaad@studentambassadors.com",
-  gitHub: "https://github.com/itstalmeez",
+  gitHub: "itstalmeez",
   // instagram: "microsoft",
-  linkedIn: "https://linkedin.com/in/itstalmeez",
+  linkedIn: "itstalmeez",
   // medium: "",
-  twitter: "https://twitter.com/itstalmeez",
+  twitter: "itstalmeez",
   // youTube: "Code",
 };
 
